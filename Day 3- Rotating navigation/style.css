@@ -69,7 +69,7 @@ outline: none;
     transform-origin: top left;
 }
 /* 
-rotate the circle when show-nav class is added  */
+rotate the circle on top left when show-nav class is added  */
 .container.show-nav .circle {
     transform: rotate(-70deg);
 }
